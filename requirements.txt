@@ -1,0 +1,6 @@
+ipykernel
+camelot-py
+PyMuPDF
+ghostscript
+matplotlib
+pandas
